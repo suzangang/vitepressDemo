@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a5 as r}from"./chunks/framework.piREQT2Z.js";const _=JSON.parse('{"title":"所遇BUG","description":"","frontmatter":{},"headers":[],"relativePath":"所遇BUG.md","filePath":"所遇BUG.md","lastUpdated":null}'),l={name:"所遇BUG.md"},n=r("",76),o=[n];function s(i,h,c,d,u,b){return t(),a("div",null,o)}const m=e(l,[["render",s]]);export{_ as __pageData,m as default};
