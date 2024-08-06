@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,j as a}from"./chunks/framework.piREQT2Z.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"home.md","filePath":"home.md","lastUpdated":null}'),s={name:"home.md"},n=a("p",null,"123",-1),r=[n];function c(d,_,l,m,p,i){return o(),t("div",null,r)}const u=e(s,[["render",c]]);export{f as __pageData,u as default};
